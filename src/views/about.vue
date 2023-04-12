@@ -9,7 +9,7 @@
           <div class = "col-lg-6">
             <h3>About me</h3>
             <p class = "text-muted fw-light lh-lg my-4"> Hello Gays </p>
-            <p class = "text-muted fw-light lh-lg my-4"> My name is Muhammad Khalil Gibran, I was born on January 29, 2004 in the city of Sibolga, now I live in the Pandan. and my profession is a student at the Sultan Syarif Kasim Riau State Islamic University. </p>
+            <p class = "text-muted fw-light lh-lg my-4"> Nama Saya Muhammad Khalil Gibran Saya Lahir Tanggal 29 Januari 2004 Saya Mahasiswa Universitas Islam Negeri Sultan Syarif Kasim Riau </p>
   
   
             <button type = "button" class = "btn btn-blue mt-2">Read more</button>
@@ -63,14 +63,14 @@
     color: var(--blue);
   }
   .btn{
-    border: 2px solid #fff;
+    border: 2px solid #5a5959;
     border-radius: 1.5rem;
     padding: 0.6rem 0;
     width: 160px;
   }
   .btn-blue{
     background-color: var(--blue);
-    color: #fff;
+    color: #6a6464;
     padding: 0.55rem 0;
     width: 140px;
   }
@@ -120,7 +120,7 @@
     background-color: var(--green-dark);
   }
   .pricing-price, .pricing-item ul li{
-    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-bottom: 1px solid rgba(191, 170, 170, 0.5);
     padding: 0.9rem 0;
   }
   .pricing-item .btn:hover{

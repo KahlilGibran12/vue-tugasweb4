@@ -8,8 +8,8 @@
            height="300px" width="300px">
     </div>
     <div class="content text-center">
-      <h1 class="text-white">Muhamamd Khalil Gibran</h1>
-      <h2>Selamat Datang</h2>
+      <h1 class="text-black">Muhamamd Khalil Gibran</h1>
+      <h2 class="text-black">Selamat Datang</h2>
     </div>
     </div>
   </div>
@@ -28,13 +28,13 @@ export default {
 
 <style>
 .text-center{
-  margin-top: 50px;
+  margin-top: 40px;
 }
 .images {
-  margin-top: -400px;
+  margin-top: -250px;
 }
 .banner-image{
-  background: #282828;
+  background: #5d5d5d;
   background-size: cover;
 }
 
